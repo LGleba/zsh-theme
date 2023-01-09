@@ -1,4 +1,4 @@
-# zsh-theme
+# **zsh-theme**
 
 
 ## 1. Install brew
